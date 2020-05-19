@@ -1,0 +1,35 @@
+
+
+body{
+
+	padding: 100px;
+}
+
+.forms{
+		border:1px solid black;
+
+		width: 50%;
+		
+}
+.forms ul li {
+
+	padding: 10px;
+	margin-left: 45%;
+	width: 40px;
+
+}
+
+#btn{
+
+	background-color: blue;
+	padding: 30px;
+	margin-left: 50%;
+
+}
+
+.loginInvalido{
+
+	background-color:red;
+	color:blue;
+
+}
